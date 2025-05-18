@@ -1,6 +1,6 @@
 # Java Volatile Keyword Example
 
-*This is a submodule of the [Java Multithreading Self-Improvement Project](../../../README.md).*
+*This is a submodule of the [Java Multithreading Self-Improvement Project](../../../../../../../README.md).*
 
 This project demonstrates the features, advantages, and limitations of the `volatile` keyword in Java multithreading.
 

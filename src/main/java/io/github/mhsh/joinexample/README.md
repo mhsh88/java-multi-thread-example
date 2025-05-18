@@ -1,6 +1,6 @@
 # Join Method in Java Multithreading
 
-*This is a submodule of the [Java Multithreading Self-Improvement Project](../../../README.md).*
+*This is a submodule of the [Java Multithreading Self-Improvement Project](../../../../../../../README.md).*
 
 This project demonstrates the importance of the `join()` method in Java multithreading.
 
