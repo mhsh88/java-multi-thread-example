@@ -39,6 +39,15 @@ public class Main {
         System.out.println("===============================================");
         AtomicSolution atomicSolution = new AtomicSolution();
         atomicSolution.start();
+
+        // Example 5: Demonstrating ThreadLocal usage
+        System.out.println();
+        System.out.println("===============================================");
+        System.out.println("EXAMPLE 5: ThreadLocal - Thread-local Variables");
+        System.out.println("===============================================");
+        io.github.mhsh.multithread.threadlocal.ThreadLocalExample threadLocalExample =
+            new io.github.mhsh.multithread.threadlocal.ThreadLocalExample();
+        threadLocalExample.start();
         
         System.out.println();
         System.out.println("=== Volatile Keyword Summary ===");

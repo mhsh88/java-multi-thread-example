@@ -10,6 +10,7 @@ This project demonstrates the features, advantages, and limitations of the `vola
 2. **VolatileDemo**: Demonstrates how the `volatile` keyword solves visibility problems.
 3. **VolatileLimitations**: Illustrates what `volatile` cannot do (non-atomic compound operations).
 4. **AtomicSolution**: Shows the proper solution for atomic operations using `AtomicInteger`.
+5. **ThreadLocalExample**: Demonstrates how each thread can have its own isolated variable using `ThreadLocal`.
 
 ## Key Features of Volatile
 
